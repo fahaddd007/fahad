@@ -2,9 +2,9 @@
 <?php
 if(isset($_POST['convert']))
 {
-	$uwais = $_POST['you'];
-	$value= $_POST['amount'];
-	$from= $_POST['from_currency'];
+	$Huzaifa = $_POST['you'];
+	$Huzaifa= $_POST['amount'];
+	$Huzaifa= $_POST['from_currency'];
 	$to= $_POST['to_currency'];
 	$res=0;
 	
