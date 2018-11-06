@@ -7,7 +7,7 @@ if(isset($_POST['convert']))
 	$Huzaifa= $_POST['from_currency'];
 	$to= $_POST['to_currency'];
 	$res=0;
-	
+	 sab choro bomb pharooo
 	if($from == "PKR" && $to == "USD")
 	{
 		$usd= ($value /123.11);
